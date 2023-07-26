@@ -2,22 +2,32 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
 }
+section{
+    height: 500px;
+}
 
 .first-part{
-        background-image: url(images/header-bg.png);
+    background-image: url(images/header-bg.png);
+    background-size: 1366px;
+    background-repeat: no-repeat;
+        
 }
 .first-one{
     float: left;
-    width: 30%;
-    margin-left: 200px;
-    margin-top: 20px;
-    padding: 40px;
+    width: 871px;
+    height: 500px;
+    padding-left: 80px;
+    padding-top: 40px;
+    
+    margin: 0 auto;
 }
 .first-one img{
-    width: 500px;
+    width: 60%;
+   
     float: right;
     margin-left: 60px;
-    padding: 0px;
+    padding-right: 20%;
+    
 
 }
 p{
@@ -39,4 +49,58 @@ h2{
     background-color: rgb(18, 105, 191);
     color: white;
     padding: 10px 20px;
+    
+}
+.second-one{
+    float: left;
+    width: 801px;
+    height: 500px;
+    margin-right: 20px;
+    padding-right: 150px;
+    margin-top: 20px;
+    margin: 0 auto;
+    
+}
+
+.second-one img{
+    
+    width: 60%;
+    
+    padding-left: 20%;
+    
+    
+}
+
+.link2{
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 15px;
+    background-color: rgb(224, 9, 141);
+    color: white;
+    padding: 10px 20px;
+}
+
+.second-part{
+    background-image: url(images/biography-bg.png);
+}
+.third-one img{
+    width: 29.34%;
+    float: left;
+    padding: 0% 2%;
+}
+.third-one1 img{
+    width: 29.33%;
+    float:right;
+    padding: 0% 2%;
+}
+.third-one2 img{
+    width: 29.33%;
+    margin: 0 auto;
+    padding: 0% 2%;
+}
+.third-part{
+    background-image: url(images/latest-work-bg.png);
+    
+    height: 400px;
+    background-repeat: no-repeat;
 }
