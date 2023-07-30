@@ -117,4 +117,5 @@ h2{
     background-color: rgb(151, 6, 144);
     color: white;
     padding: 30px 80px;
+    position: relative;
 }
