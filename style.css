@@ -110,12 +110,21 @@ h2{
     padding-top: 10%;
 }
 
+
+button{
+    font-size: 20px;
+    padding: 9px 0px;
+    border-radius: 10px ;
+    margin: 0px;
+}
+
+.button{
+    text-align: center;
+}
 .link3{
     text-decoration: none;
-    font-size: 20px;
-    border-radius: 10%;
-    background-color: rgb(151, 6, 144);
-    color: white;
-    padding: 30px 80px;
-    position: relative;
+    background-color:darkblue;
+    color: aliceblue;
+    padding: 10px;
+    
 }
