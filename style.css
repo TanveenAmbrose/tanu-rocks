@@ -14,7 +14,7 @@ section{
 }
 .first-one{
     float: left;
-    width: 871px;
+    width: 871PX;
     height: 500px;
     padding-left: 80px;
     padding-top: 40px;
@@ -28,7 +28,7 @@ section{
     margin-left: 60px;
     padding-right: 20%;
 
-    
+
 }
 p{
     font-size: larger;
@@ -103,4 +103,18 @@ h2{
     
     height: 400px;
     background-repeat: no-repeat;
+}
+
+
+.forth-part{
+    padding-top: 10%;
+}
+
+.link3{
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10%;
+    background-color: rgb(151, 6, 144);
+    color: white;
+    padding: 30px 80px;
 }
